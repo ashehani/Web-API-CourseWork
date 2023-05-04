@@ -1,0 +1,31 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.footer .logo img{
+    width: 80%;
+    margin-bottom: 1rem;
+}
+.footer__logo p{
+    color: var(--text-color);
+}
+.social__links span a{
+    text-decoration: none;
+    color: #008FC7;
+    font-size: 1.2rem;
+}
+.footer__link-title{
+    color: var(--heading-color);
+    margin-bottom: 1rem;
+    
+}
+.footer__quick-links li a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.1rem;
+}
+.footer__quick-links h6 span i{
+    color: #008FC7;
+    font-size: 1.1rem;
+    
+}
